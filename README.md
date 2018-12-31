@@ -1,1 +1,1 @@
-[![CircleCI](https://circleci.com/gh/pathak-gaurav/spring5-rest-mvc.svg?style=svg)](https://circleci.com/gh/pathak-gaurav/spring5-rest-mvc)
+[![CircleCI](https://circleci.com/gh/pathak-gaurav/spring-recipe-app.svg?style=svg)](https://circleci.com/gh/pathak-gaurav/spring-recipe-app)
